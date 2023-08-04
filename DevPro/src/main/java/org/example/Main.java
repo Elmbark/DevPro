@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
-
+        System.out.println("this is my first commit test ");
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
